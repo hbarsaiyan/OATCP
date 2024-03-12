@@ -1,0 +1,4 @@
+Case #1: 16
+Case #2: 7617
+Case #3: 991011383
+Case #4: Invalid input (negative sum)
