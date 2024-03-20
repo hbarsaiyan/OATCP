@@ -1,0 +1,3 @@
+PS C:\Users\vibha\OneDrive\Desktop\c++\cf_prac> cd "c:\Users\vibha\OneDrive\Desktop\c++\cf_prac\" ; if ($?) { g++ maxRot.cpp -o maxRot } ; if ($?) { .\maxRot }
+0
+0

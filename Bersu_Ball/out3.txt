@@ -1,0 +1,6 @@
+PS C:\Users\vibha\OneDrive\Desktop\c++\cf_prac> cd "c:\Users\vibha\OneDrive\Desktop\c++\cf_prac\" ; if ($?) { g++ bersuBall.cpp -o bersuBall } ; if ($?) { .\bersuBall }
+10
+4 5 2 7 1 6 3 7 2 3
+11
+3 6 2 8 2 6 5 4 6 7 9
+9
