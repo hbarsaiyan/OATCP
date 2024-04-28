@@ -1,0 +1,2 @@
+Max_flow: 7
+Time_taken_in_milliseconds: 0
